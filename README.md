@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## Packages used:
+
+- flutter_hooks: for a simpler state managements and animations.
+- riverpod: simple state management when a user selects a specific quizz.
+- supercharged: conversion fo colors.
+- google_fonts: fonts for the app.
+- font_awesome_flutter: question mark icon.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
